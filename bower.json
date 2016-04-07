@@ -1,0 +1,21 @@
+{
+  "name": "bpmn-example",
+  "main": "index.js",
+  "version": "0.0.0",
+  "homepage": "https://github.com/HSKA-JSNinjas/bpmn-example",
+  "authors": [
+    "Dominik Finkbeiner <finkes93@gmail.com>"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bpmn-js": "^0.14.1"
+  }
+}
